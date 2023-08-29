@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[97],{1020:function(n,t,e){"use strict";e.r(t);var c=e(5),component=Object(c.a)({},(function(){var n=this,t=n.$createElement;return(n._self._c||t)("div",[n._v("Account settings")])}),[],!1,null,null,null);t.default=component.exports}}]);
