@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[247],{1111:function(t,n,e){"use strict";e.r(n);var o={mounted:function(){this.$router.push("/settings/profile")}},r=e(5),component=Object(r.a)(o,(function(){var t=this.$createElement;return(this._self._c||t)("div")}),[],!1,null,null,null);n.default=component.exports}}]);
